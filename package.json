@@ -14,12 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/xud6/nodejs-template-typescript.git"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "xud6",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.1.7",
     "@types/mocha": "^5.2.5",
